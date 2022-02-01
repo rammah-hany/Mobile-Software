@@ -1,4 +1,16 @@
 # steps 
   - model from phone back
   - software version
+  - Itunes
+  - recovery mode --> press 'home' in off mode or 'volume down' in off mode ---> update or restore with itunes
+  - DFU 'home' and 'power' in hanging and release 'power' after blackscreen --> restore with itunes
+  - IPSW site for apple flash images --> 'shift' + restore in itunes 
+  - Simlock by paid servers as gem-flash.com or mayunlock.com
+    - with imei code
+    - price depend on network name
+    - takes dayes and price changes
+    - use GSX check to know what is your network lock
+- JailBreak to get free apps and change theme
+  - depend on ios ---> under 12.3  can make it
+- Icloud
   - 
