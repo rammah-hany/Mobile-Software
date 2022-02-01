@@ -12,5 +12,30 @@
     - use GSX check to know what is your network lock
 - JailBreak to get free apps and change theme
   - depend on ios ---> under 12.3  can make it
-- Icloud
+- Icloud -- > format -find my device - alarm - 
+  - iunlocker.net for asking about icloude status
+  - by server unlock-gem-flash if its just 'clean' you can remove icloude by money
   - 
+------------------------------------------
+# Samsung
+  - press 7 times in 'about' to ger developer mode
+  - adb mode for developers about-->software info-->number 7timea 
+  - flash mode -->home+down+power then  1up
+  - samsung 300k tool for get into modes
+  - usb download for get into modes
+  - recovery home+up+power
+  - Odin program for flshing 
+  - for drivers in pc --> kies3 - smart switch - samsung kies for  backup restore
+  - soft ware files working in odin program
+    - Pit [repartion] partion
+    - bootloader [bl] loading
+    - pda [ap] [code]  system
+    - phone [cp] [modem] network
+    - csc langauge and region
+  - flash 4 files make format 
+  - flash 1 file for repair in adp [ap] 
+  - flash site samsuny.net
+  - for software version setting --> baseband version or recovery mode 
+  - for model --> about or download mode or recovery mode 
+  
+    
