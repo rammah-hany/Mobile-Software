@@ -40,4 +40,26 @@
   --------------------
 # root
   - free tools ---> kingo root - iroot
+  - rooted image for flashing ---> cf-autoroot ---> download mode ----> ap 
+  - modified recovery software
+  ---------------------------------------
+# zx3
+  - imie cert ---> *#0011# ----> patch imie or write cert or repair imie
+  - baseband from phone ---reset efs
+  - rest frp [factory reset and kill old account]  download mode or adb mode or box cable 
+  - adb enable file from internet to make it happend
+  - paid server for new phones 
+------------------------------
+# custom recovery 
+  - twrp -- cwm --philz 
+  - twrp most famuse  -- download file --> odin ---> download mode ---> take battary before restart
+------------
+# custom flash
+  - enhance battary 
+  - enhance performance
+  - xda-developers for files
+  - works by custom recovery only
+  - then google apps files gapps.zip
+  - 
+  
   
