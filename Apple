@@ -78,4 +78,24 @@
     - drivers
   -----------------
   # Cm2 dongle chinese box
-    - 
+  # miracle box
+  -----------------
+  # Sites 
+    - gsmhosting
+    - gem-flash
+    - xda-developers
+  # tools
+    - aplle
+      -3utools
+    - samsung
+      - kies
+      - kies3
+      - smart switch
+      - odin
+      - samsung300k tool
+    - chinese
+      - spflashtool for mediatek  ---> flash and frp
+      - reseacrh download for spd
+      - qpst for Qlm
+      
+      - 
